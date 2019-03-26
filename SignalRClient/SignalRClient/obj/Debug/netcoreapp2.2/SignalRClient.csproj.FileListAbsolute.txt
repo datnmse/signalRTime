@@ -1,0 +1,11 @@
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\bin\Debug\netcoreapp2.2\SignalRClient.deps.json
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\bin\Debug\netcoreapp2.2\SignalRClient.runtimeconfig.json
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\bin\Debug\netcoreapp2.2\SignalRClient.runtimeconfig.dev.json
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\bin\Debug\netcoreapp2.2\SignalRClient.dll
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\obj\Debug\netcoreapp2.2\SignalRClient.csprojAssemblyReference.cache
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\obj\Debug\netcoreapp2.2\SignalRClient.csproj.CoreCompileInputs.cache
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\obj\Debug\netcoreapp2.2\SignalRClient.AssemblyInfoInputs.cache
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\obj\Debug\netcoreapp2.2\SignalRClient.AssemblyInfo.cs
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\bin\Debug\netcoreapp2.2\SignalRClient.pdb
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\obj\Debug\netcoreapp2.2\SignalRClient.dll
+C:\Users\Datzoz\Desktop\Chat\SignalRClient\SignalRClient\obj\Debug\netcoreapp2.2\SignalRClient.pdb
